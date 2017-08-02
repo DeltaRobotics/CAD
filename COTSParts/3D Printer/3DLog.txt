@@ -1,2 +1,3 @@
 Log for 3d printer
 7/22/2017  SpoolHolder2  Scale 1000%  Rotate 180 z  No plate adhesion
+8/1/2017   AnetA8_Holder  No Plate Adhesion    Defaults
