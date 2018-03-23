@@ -1,9 +1,113 @@
-﻿Study Static Analysis:1 started: 3/20/2018, 8:44:02 PM
+﻿Study Static Analysis:1 started: 3/22/2018, 6:36:58 PM
 Number of configurations: 1
-Default mesh: 1365 elements, 2666 nodes
+Default mesh: 1172 elements, 2326 nodes
 Solution time 0.2s
 Convergence rate: 50%
 Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 3/20/2018, 8:44:05 PM
-Total time 0:00:03
+Study        Worst Jacobian ratio :  1  on element 1 finished: 3/22/2018, 6:37:02 PM
+Total time 0:00:04
+
+Study Static Analysis:1 started: 3/22/2018, 6:43:12 PM
+Number of configurations: 1
+Default mesh: 1156 elements, 2316 nodes
+Solution time 0.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 3/22/2018, 6:43:14 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 3/22/2018, 6:43:56 PM
+Number of configurations: 1
+Default mesh: 1156 elements, 2316 nodes
+Solution time 0.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/22/2018, 6:43:56 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 3/22/2018, 6:45:21 PM
+Number of configurations: 1
+Default mesh: 1156 elements, 2316 nodes
+Solution time 0s
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/22/2018, 6:45:22 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 3/22/2018, 6:46:02 PM
+Number of configurations: 1
+Default mesh: 1156 elements, 2316 nodes
+Solution time 0.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/22/2018, 6:46:02 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 3/22/2018, 6:48:15 PM
+Number of configurations: 1
+Default mesh: 1133 elements, 2285 nodes
+Study        Worst Jacobian ratio :  1  on element 1 finished: 3/22/2018, 6:48:16 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 3/22/2018, 6:53:48 PM
+Number of configurations: 1
+Default mesh: 1213 elements, 2410 nodes
+Study        Worst Jacobian ratio :  1  on element 1 finished: 3/22/2018, 6:53:50 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 3/22/2018, 6:54:52 PM
+Number of configurations: 1
+Default mesh: 1213 elements, 2410 nodes
+Study Static Analysis:1 finished: 3/22/2018, 6:54:52 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 3/22/2018, 6:55:12 PM
+Number of configurations: 1
+Default mesh: 1213 elements, 2410 nodes
+Solution time 0.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/22/2018, 6:55:12 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 3/22/2018, 6:57:28 PM
+Number of configurations: 1
+Study Static Analysis:1 finished: 3/22/2018, 6:57:28 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 3/22/2018, 7:00:50 PM
+Number of configurations: 1
+Study Static Analysis:1 finished: 3/22/2018, 7:00:50 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 3/22/2018, 7:57:09 PM
+Number of configurations: 1
+Default mesh: 1213 elements, 2410 nodes
+Solution time 0.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/22/2018, 7:57:09 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 3/22/2018, 7:57:25 PM
+Number of configurations: 1
+Default mesh: 1213 elements, 2410 nodes
+Solution time 0.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/22/2018, 7:57:25 PM
+Total time 0:00:00
+
+Study Static Analysis:2 started: 3/22/2018, 8:20:11 PM
+Number of configurations: 1
+Default mesh: 1213 elements, 2410 nodes
+Solution time 0.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 3/22/2018, 8:20:13 PM
+Total time 0:00:02
+
+Study Static Analysis:2 started: 3/22/2018, 8:20:31 PM
+Number of configurations: 1
+Study Static Analysis:2 finished: 3/22/2018, 8:20:31 PM
+Total time 0:00:00
 
